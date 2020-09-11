@@ -18,6 +18,9 @@ body .gist .gist-data {
 body .gist .blob-wrapper table{
   background-color: #1E1E1E;
 }
+body .gist .blob-wrapper table td{
+    line-height:10px;
+}
 body .gist .blob-num{
   color:rgba(255,255,255,0.3);
 }
